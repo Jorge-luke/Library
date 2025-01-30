@@ -1,5 +1,5 @@
 .container {
-    background-color: blue;
+    background-color: grey;
     width: 70rem;
     height: 40rem;
     display: flex;
@@ -11,4 +11,17 @@
     background-color: white;
     width: 10rem;
     height: 10rem;
+}
+
+.new-book {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cards-container {
+    display: flex;
+    gap: 1rem;
+    border: 0.1rem solid blue;
+    padding: 1rem;
 }
