@@ -4,7 +4,6 @@ body {
 }
 
 .container {
-;
     width: 97vw;
     height: 95vh;
     display: flex;
@@ -85,8 +84,6 @@ button {
     font-weight: bold;
     text-shadow: 0.2rem 0.2rem 0.4rem grey;
 }
-
-
 
 .text-read {
     padding: 0.5rem;
